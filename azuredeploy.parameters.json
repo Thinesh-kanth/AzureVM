@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "UserName"
+      "value": "Thineshkanth"
     },
     "adminPassword": {
-      "value": "Password"
+      "value": "Batti@123456789@Batti"
     },
     "dnsLabelPrefix": {
-      "value": "DNS Name"
+      "value": "ThineshEruvil05"
     }
   }
 }
